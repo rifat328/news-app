@@ -47,13 +47,3 @@ const Dropdown = () => {
 };
 
 export default Dropdown;
-
-// {open && (
-//         <div className="absolute right-0 mt-2 w-40 bg-white border rounded shadow">
-//           <p className="px-4 py-2 hover:bg-gray-100 cursor-pointer">Profile</p>
-//           <p className="px-4 py-2 hover:bg-gray-100 cursor-pointer">Settings</p>
-//           <p className="px-4 py-2 hover:bg-gray-100 cursor-pointer">Logout</p>
-//         </div>
-
-// https://newsapi.org/
-// Your API key is: 4b366af9f68843949e0df5b77f9f6fdf
